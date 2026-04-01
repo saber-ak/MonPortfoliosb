@@ -165,7 +165,7 @@ section {
 
 .sabak {
     margin-top: -48%;
-    margin-left: 42%;
+    margin-left: 41%;
     font-size: 75px;
     color: #535151;
 }
@@ -1072,7 +1072,7 @@ section {
     .devweb {
         font-size: 6px;
         margin-left: 165px;
-        margin-top: -7px;
+        margin-top: 30px;
     }
 
     .pagesite1 {
@@ -1226,7 +1226,7 @@ section {
     color: #535151;
     font-weight: bold;
     font-size: 12px;
-    margin-left: 155px;
+    text-align: center;
     margin-top: 15px;
     }
 
@@ -1383,8 +1383,8 @@ section {
     }
 
     .projetsme {
-        margin-top: -48px;
-        margin-left: 135px;
+        margin-top: -26px;
+        text-align: center;
         font-size: 24px;
     }
 
@@ -1408,7 +1408,7 @@ section {
 
     .myskills {
         margin-top: -42px;
-        margin-left: 145px;
+        text-align: center;
         font-size: 26px;
     }
 
