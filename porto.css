@@ -132,7 +132,7 @@ section {
     width: 380px;
     border-radius: 150px;
     margin-top: 100px;
-    margin-left: 82px;
+    margin-left: 200px;
     border-color: rgb(0, 98, 255);
     box-shadow: 0 0 10px rgb(0, 98, 255), 0 0 20px rgb(0, 98, 255);
     animation: float 3s ease-in-out infinite;
@@ -152,27 +152,27 @@ section {
 }
 
 .image-style {
-    width: 54%;
+    width: 50%;
     height: 70%;
     opacity: 0.4;
     filter: blur(10px);
     display: block;
-    margin-left: 584px;
-    margin-top: -570px;
+    margin-left: 664px;
+    margin-top: -510px;
     border-radius: 40px;
     pointer-events: none;
 }
 
 .sabak {
-    margin-top: -48%;
-    margin-left: 41%;
+    margin-top: -44%;
+    margin-left: 40%;
     font-size: 75px;
     color: #535151;
 }
 
 .rokin {
     margin-top: -12px;
-    margin-left: 42%;
+    margin-left: 40%;
     font-size: 55px;
     color: #535151;
 }
@@ -216,9 +216,9 @@ section {
 }
 
 .chops {
-    margin-left: 42%;
+    margin-left: 40%;
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 22px;
     color: #535151;
 }
 
@@ -232,21 +232,20 @@ section {
     color: #00d2ff;
     border: 2px solid #00d2ff;
     padding: 5px 55px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     border-radius: 50px;
-    cursor: pointer;
     transition: all 0.s ease;
     box-shadow: 0 0 10px rgb(0, 98, 255), 0 0 20px rgb(0, 98, 255);
-    margin-top: 10px;
-    margin-left: 42%;
+    margin-top: 33px;
+    margin-left: 40%;
 }
 
 .social-container {
     display: flex;
     justify-content: flex-end;
     padding: 20px;
-    margin-right: 170px;
+    margin-right: 250px;
     margin-top: 120px;
 }
 
@@ -286,7 +285,7 @@ section {
     height: 600px;
     width: 420px;
     border-radius: 150px;
-    margin-top: 230px;
+    margin-top: 300px;
     margin-left: 78cap;
     border-color: rgb(0, 98, 255);
     box-shadow: 0 0 10px rgb(0, 98, 255), 0 0 20px rgb(0, 98, 255);
@@ -481,7 +480,7 @@ section {
     filter: blur(10px);
     display: block;
     margin-left: 12px;
-    margin-top: 165px;
+    margin-top: 230px;
     border-radius: 40px;
     pointer-events: none;
 }
