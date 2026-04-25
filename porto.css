@@ -152,15 +152,15 @@ section {
 }
 
 .image-style {
-    width: 50%;
+    width: 54%;
     height: 70%;
     opacity: 0.4;
     filter: blur(10px);
     display: block;
-    margin-left: 664px;
-    margin-top: -510px;
+    margin-left: 584px;
+    margin-top: -570px;
     border-radius: 40px;
- 
+    pointer-events: none;
 }
 
 .sabak {
